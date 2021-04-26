@@ -25,7 +25,7 @@ de $20, 1 billete de $10 y 3 billetes de $1.
 5. Escribir dos funciones separadas para imprimir por pantalla los siguientes patrones 
 de asteriscos, donde la cantidad de filas se recibe como parámetro:
 
-![image](https://user-images.githubusercontent.com/36941575/116017771-eb2cb880-a616-11eb-838d-7a7aef4a222e.png)
+    ![image](https://user-images.githubusercontent.com/36941575/116017771-eb2cb880-a616-11eb-838d-7a7aef4a222e.png)
 
 6. Desarrollar una función que reciba como parámetros dos números enteros positivos y devuelva el número que resulte de concatenar ambos valores.
 Por ejemplo, si recibe 1234 y 567 debe devolver 1234567. No se permite utilizar facilidades de Python no vistas en clase.
@@ -39,7 +39,8 @@ b. Calcular la cantidad de días existentes entre dos fechas cualesquiera.
 
 8. La siguiente función permite averiguar el día de la semana para una fecha determinada. La fecha se suministra en forma de tres parámetros enteros y la función devuelve 0 para domingo, 1 para lunes, 2 para martes, etc. Escribir un programa para imprimir por pantalla el calendario de un mes completo, correspondiente a un 
 mes y año cualquiera basándose en la función suministrada. Considerar que la semana comienza en domingo.
-![image](https://user-images.githubusercontent.com/36941575/116017675-a7d24a00-a616-11eb-93ae-68a2b0d5403f.png)
+
+         ![image](https://user-images.githubusercontent.com/36941575/116017675-a7d24a00-a616-11eb-93ae-68a2b0d5403f.png)
 
 9. Resolver el siguiente problema diseñando y utilizando funciones:
 Un productor frutihortícola desea contabilizar sus cajones de naranjas según el peso para poder cargar el camión de reparto. La empresa cuenta con N camiones, y 
