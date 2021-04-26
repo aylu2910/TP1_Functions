@@ -25,7 +25,8 @@ de $20, 1 billete de $10 y 3 billetes de $1.
 5. Escribir dos funciones separadas para imprimir por pantalla los siguientes patrones 
 de asteriscos, donde la cantidad de filas se recibe como parámetro:
 
-   ![image](https://user-images.githubusercontent.com/36941575/116017771-eb2cb880-a616-11eb-838d-7a7aef4a222e.png)
+![image](https://user-images.githubusercontent.com/36941575/116017981-6a21f100-a617-11eb-9d65-b877c4420c10.png)
+
 
 6. Desarrollar una función que reciba como parámetros dos números enteros positivos y devuelva el número que resulte de concatenar ambos valores.
 Por ejemplo, si recibe 1234 y 567 debe devolver 1234567. No se permite utilizar facilidades de Python no vistas en clase.
