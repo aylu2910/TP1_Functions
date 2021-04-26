@@ -11,7 +11,7 @@ fecha sea correcta o no. Realizar también un programa para verificar el comport
 3. Una persona desea llevar el control de los gastos realizados al viajar en el subterráneo dentro de un mes. Sabiendo que dicho medio de transporte utiliza un esquema de tarifas decrecientes (detalladas en la tabla de abajo) se solicita desarro￾llar una función que reciba como parámetro la cantidad de viajes realizados en un 
 determinado mes y devuelva el total gastado en viajes. Realizar también un pro￾grama para verificar el comportamiento de la función.
 
-![image](https://user-images.githubusercontent.com/36941575/116017559-532ecf00-a616-11eb-8cd8-9a07c235a8ca.png)
+    ![image](https://user-images.githubusercontent.com/36941575/116017559-532ecf00-a616-11eb-8cd8-9a07c235a8ca.png)
 
 4. Un comercio de electrodomésticos necesita para su línea de cajas un programa que 
 le indique al cajero el cambio que debe entregarle al cliente. Para eso se ingresan 
@@ -25,17 +25,8 @@ de $20, 1 billete de $10 y 3 billetes de $1.
 5. Escribir dos funciones separadas para imprimir por pantalla los siguientes patrones 
 de asteriscos, donde la cantidad de filas se recibe como parámetro:
 
-**********
-**********
-**********
-**********
-**********
+![image](https://user-images.githubusercontent.com/36941575/116017771-eb2cb880-a616-11eb-838d-7a7aef4a222e.png)
 
-**
-****
-******
-********
-**********
 6. Desarrollar una función que reciba como parámetros dos números enteros positi￾vos y devuelva el número que resulte de concatenar ambos valores.
 Por ejemplo, si recibe 1234 y 567 debe devolver 1234567. No se permite utilizar facilidades de Python no vistas en clase.
 
